@@ -1,0 +1,12 @@
+# dependencies
+/node_modules
+
+# IDE - VSCode
+.vscode/*
+
+# migrations
+/src/database/migrations
+
+package-lock.json
+
+database.sqlite
